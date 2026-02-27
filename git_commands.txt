@@ -6,3 +6,6 @@ git restore filename
 git remote -v
 git push origin master
 git clone
+
+
+this are some commands
