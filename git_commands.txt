@@ -7,5 +7,5 @@ git remote -v
 git push origin master
 git clone
 
-
+git pull origin master
 this are some commands
