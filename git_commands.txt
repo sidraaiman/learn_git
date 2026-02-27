@@ -3,3 +3,6 @@ git add filename
 git init
 git rm --cache filename
 git restore filename
+git remote -v
+git push origin master
+git clone
